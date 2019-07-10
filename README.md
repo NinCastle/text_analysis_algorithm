@@ -4,3 +4,4 @@
 > 1. Cosine_Similarity
 > 2. Euclidean_distance
 > 3. Manhattan_distance
+> 4. Jaccard_distance
