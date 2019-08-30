@@ -5,3 +5,5 @@
 > 2. Euclidean_distance
 > 3. Manhattan_distance
 > 4. Jaccard_distance
+> 5. Word2Vec
+> 6. Doc2Vec
